@@ -1,0 +1,5 @@
+Creen un html con los <div>, <p>, <h1> y demás etiquetas necesarias para replicar el ejemplo de referencia.
+
+Linkear el archivo de estilado y usarlo para llamar a los selectores que haga falta para imitar el estilo del ejemplo lo más posible.
+
+Usen las imágenes que se proporcionan. Tipografía libre.
